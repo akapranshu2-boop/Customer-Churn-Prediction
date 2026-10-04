@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Virtual/document files
+.virtual_documents/
+
+# Environment
+.venv/
+venv/
+.env
+
+# Old files
+archive/
